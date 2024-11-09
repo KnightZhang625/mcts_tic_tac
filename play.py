@@ -1,4 +1,5 @@
 # coding:utf-8
+# originally from https://gist.github.com/qpwo/c538c6f73727e254fdc7fab81024f6e1
 
 from board import Node, make_move, to_pretty_string
 from mcts import MCTS
